@@ -1,2 +1,1 @@
-#!/bi/bash
-0x03 Shell
+# 0x03-shell_variables_expansions
